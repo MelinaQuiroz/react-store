@@ -1,8 +1,9 @@
+import NavbarContainer from "./components/Header/NavbarContainer";
 
 function App() {
   return (
     <div className="App">
-      <h1>It's working!</h1>
+      <NavbarContainer/>
     </div>
   );
 }
