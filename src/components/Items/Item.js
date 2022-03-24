@@ -3,8 +3,6 @@ import Data from "../../data";
 import { Card, Button, CardGroup, Col, Row, Container } from "react-bootstrap";
 import ItemCount from "./ItemCount";
 // import {onAdd} from "./ItemListContainer";
-// import "./Item.scss";
-import { GiPointySword } from "react-icons/gi";
 
 export default function Item() {
   return (

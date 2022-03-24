@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { HiShoppingCart } from "react-icons/hi";
-// import "../../components/Items/ItemCount.scss";
 
 export default function ItemCount({ stock, initial, onAdd }) {
   const [counter, setCounter] = useState(initial);
