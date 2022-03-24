@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "Videodrome",
+      "price": "2000",
+      "img": "https://www.filmweb.no/migration_catalog/article631081.ece/REPRESENTATIONS/w/Videodrome"
+    },
+    {
+      "id": 2,
+      "name": "The Exorcist",
+      "price": "1500",
+      "img": "https://fbwebsitedefaultstorage.blob.core.windows.net/prod-film/11806/uk/the-exorcist-1-poster.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Cannibal Holocaust",
+      "price": "2500",
+      "img": "https://media.senscritique.com/media/000016126887/source_big/Cannibal_Holocaust.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Scanners",
+      "price": "1500",
+      "img": "http://fr.web.img4.acsta.net/pictures/20/06/19/15/13/5466944.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Guinea Pig: Devil's Experiment",
+      "price": "3000",
+      "img": "https://clzmovies.r.sizr.io/core/covers/lg/50/50_169900_2_GuineaPigDevilsExperiment.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Genocyber",
+      "price": "3000",
+      "img": "https://media.senscritique.com/media/000006562799/source_big/Genocyber.jpg"
+    },
+    {
+      "id": 7,
+      "name": "A Nightmare on Elm Street",
+      "price": "1500",
+      "img": "https://vignette.wikia.nocookie.net/cinemorgue/images/b/be/A-nightmare-on-elm-street-poster.jpg/revision/latest?cb=20141028174756"
+    },
+    {
+      "id": 8,
+      "name": "Scanners",
+      "price": "1500",
+      "img": "http://fr.web.img4.acsta.net/pictures/20/06/19/15/13/5466944.jpg"
+    }
+  ]
